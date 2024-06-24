@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="50dp" /> <!-- Adjust the radius to change the amount of curvature -->
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/black" /> <!-- Adjust the border color as needed -->
+</shape>
